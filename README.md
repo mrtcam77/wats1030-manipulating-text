@@ -105,10 +105,10 @@ ServerName www.unix.org
 * In the short story "The Machine Stops" (contained in the
 `the_machine_stops.txt` file), the main characters are Vishta and Kuno. How many
 times does the word "Vishta" show up in the short story? How many times does the
-word "Kuno" show up in the short story? (Type your answers here.)
+word "Kuno" show up in the short story? Kuno: 25; Vishta: 0;
 
 ## Stretch Goals
 
 * Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
-* How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
+* How do you turn on line numbering in Vi? Emacs? For Vi, enter command mode by pushing the ':' and type in set number. For Emacs, there are a couple of ways, but what I found is that enter in (setq column-number-mode t)
 * Explore the Emacs file browser mode. Describe how it works here.
